@@ -4,19 +4,22 @@
 
 .contact th{
   text-align: right;
-  width: 150px;
+  width: 140px;
   padding: 0;
   border-spacing: 0;
   padding-right: 1rem;
 }
 
 .contact td {
-  width: 480px;
+  width: 476px;
+  padding: 0;
+  border-spacing:0;
 }
 
 .contact input[type="text"], textarea{
-  width: 100%;
+  width: 476px;
   border-color:  #b1b1b1;
+  padding:0;
 }
 
 .button {
